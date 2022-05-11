@@ -1,5 +1,5 @@
 import React from 'react';
-import chair from '../../assets/images/chair.png'
+import chair from '../../assets/images/chair.png';
 
 const Banner = () => {
     return (
